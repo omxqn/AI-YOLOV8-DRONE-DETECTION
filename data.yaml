@@ -1,0 +1,7 @@
+path: C:/Users/MOHAMED/Desktop/ai_project/
+train: ../train/images
+val: ../valid/images
+
+
+nc: 2
+names: ['0', '1']
